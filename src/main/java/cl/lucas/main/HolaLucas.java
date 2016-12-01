@@ -5,6 +5,7 @@ public class HolaLucas {
 	private int lucas;
 	private int deudas; 
 	private int ahorro;
+	private int herencias;
 	
 	public int getDeudas() {
 		return deudas;
