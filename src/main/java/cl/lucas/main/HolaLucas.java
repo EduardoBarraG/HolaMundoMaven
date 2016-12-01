@@ -4,7 +4,7 @@ package cl.lucas.main;
 public class HolaLucas {
 	private int lucas;
 	private int deudas; 
-	
+	private int ahorro;
 	
 	public int getDeudas() {
 		return deudas;
