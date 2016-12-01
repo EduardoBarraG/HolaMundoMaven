@@ -10,7 +10,7 @@ public class HolaLucas {
 	private int Donacion;
 
 	private int boletas;
-
+	private String nombre;
 	
 	public int getDeudas() {
 		return deudas;
