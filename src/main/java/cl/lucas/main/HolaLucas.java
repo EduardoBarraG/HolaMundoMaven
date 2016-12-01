@@ -3,6 +3,16 @@ package cl.lucas.main;
 
 public class HolaLucas {
 	private int lucas;
+	private int deudas; 
+	
+	
+	public int getDeudas() {
+		return deudas;
+	}
+
+	public void setDeudas(int deudas) {
+		this.deudas = deudas;
+	}
 
 	public int getLucas() {
 		return lucas;
