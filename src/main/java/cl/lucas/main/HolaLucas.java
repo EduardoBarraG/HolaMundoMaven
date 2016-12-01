@@ -6,6 +6,7 @@ public class HolaLucas {
 	private int deudas; 
 	private int ahorro;
 	private int herencias;
+	private int boletas;
 	
 	public int getDeudas() {
 		return deudas;
