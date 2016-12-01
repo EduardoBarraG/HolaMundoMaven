@@ -5,12 +5,21 @@ public class HolaLucas {
 	private int lucas;
 	private int deudas; 
 	private int ahorro;
+	public int getAhorro() {
+		return ahorro;
+	}
+
+	public void setAhorro(int ahorro) {
+		this.ahorro = ahorro;
+	}
+
 	private int herencias;
 
 	private int Donacion;
 
 	private int boletas;
 	private String nombre;
+	
 	
 	public int getDeudas() {
 		return deudas;
