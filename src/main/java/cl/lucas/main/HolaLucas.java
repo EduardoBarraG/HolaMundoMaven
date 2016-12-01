@@ -14,7 +14,11 @@ public class HolaLucas {
 	}
 
 	private int herencias;
+
+	private int Donacion;
+
 	private int boletas;
+	private String nombre;
 	
 	
 	public int getDeudas() {
